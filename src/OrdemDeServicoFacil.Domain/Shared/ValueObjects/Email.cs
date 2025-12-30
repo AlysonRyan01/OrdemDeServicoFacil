@@ -1,7 +1,6 @@
 using System.Text.RegularExpressions;
-using OrdemDeServicoFacil.Domain.Shared;
 
-namespace OrdemDeServicoFacil.Domain.Authentication.ValueObjects;
+namespace OrdemDeServicoFacil.Domain.Shared.ValueObjects;
 
 public class Email : ValueObject
 {

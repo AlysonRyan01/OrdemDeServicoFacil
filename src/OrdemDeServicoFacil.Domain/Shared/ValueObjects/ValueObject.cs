@@ -1,4 +1,4 @@
-namespace OrdemDeServicoFacil.Domain.Shared;
+namespace OrdemDeServicoFacil.Domain.Shared.ValueObjects;
 
 public abstract class ValueObject
 {

@@ -1,7 +1,6 @@
-using OrdemDeServicoFacil.Domain.Shared.Entities;
 using OrdemDeServicoFacil.Domain.Shared.Events;
 
-namespace OrdemDeServicoFacil.Domain.Shared.Aggregates;
+namespace OrdemDeServicoFacil.Domain.Shared.Models;
 
 public abstract class AggregateRoot : Entity
 {

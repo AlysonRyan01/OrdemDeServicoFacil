@@ -1,4 +1,4 @@
-using OrdemDeServicoFacil.Domain.Authentication.ValueObjects;
+using OrdemDeServicoFacil.Domain.Shared.ValueObjects;
 
 namespace OrdemDeServicoFacil.Tests.Domain.Shared.ValueObjects;
 
