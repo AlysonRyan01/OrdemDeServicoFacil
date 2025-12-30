@@ -1,4 +1,5 @@
 using System.Text.RegularExpressions;
+using OrdemDeServicoFacil.Domain.Shared.Models;
 
 namespace OrdemDeServicoFacil.Domain.Shared.ValueObjects;
 
